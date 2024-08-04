@@ -31,7 +31,7 @@ cat <<EOL > index.html
 <body>
     <h1 id="title">Welcome to  Amazing HTML Page!</h1>
     <p>This is just the beginning of something incredible.</p>
-    
+    <h2>Branch: dev</h2>
     <div style="text-align: center;">
         <i class="fas fa-smile"></i> <!-- Add your funny icon class here -->
         <img src="cat.gif" alt="Funny Image"> <!-- Add the path to your image here -->
